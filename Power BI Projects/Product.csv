@@ -1,0 +1,14 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice
+P0001,Laptop,Electronics,Laptop,TechPro,3848,4675.34
+P0002,Smartphone,Electronics,Smartphone,Mobigo,9212,12407.97
+P0003,Tablet,Electronics,Tablet,SkyTab,4772,7835.06
+P0004,Headphones,Electronics,Headphones,BeatSound,18070,22626.59
+P0005,Microwave,Home Appliances,Microwave,HomeEase,14025,17097.45
+P0006,Refrigerator,Home Appliances,Refrigerator,CoolFresh,3270,4352.97
+P0007,Washing Machine,Home Appliances,Washing Machine,SpinWash,16759,26164.34
+P0008,Office Chair,Furniture,Office Chair,ComfortSeat,18590,24525.84
+P0009,Desk,Furniture,Desk,WorkWood,18056,26212.11
+P0010,Bookshelf,Furniture,Bookshelf,StackWell,14919,23177.55
+P0011,Notebook,Stationery,Notebook,PaperLine,412,681.98
+P0012,Pen,Stationery,Pen,InkFlow,5431,8792.16
+P0013,Marker,Stationery,Marker,BoldWrite,11349,15510.94
